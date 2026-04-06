@@ -26,7 +26,7 @@ I am a Data Scientist currently pursuing an MSc at **Cranfield University**, whe
 * **Transition State Properties Modelling (TPMS)**: Developed a **GNN model** to predict molecular transition state properties, significantly reducing computational time compared to traditional methods.
 * **Short-Term Electricity Load Forecasting**: Engineered an **Ensemble model (HGB, RF, Ridge)** for renewable-rich buildings, achieving a superior RMSE of 11.03.
 * **Indian Stock Market Forecasting**: Implemented **Random Forest** and **XGBoost** models to predict short-term equity price movements.
-* [**AI for Carbon Capture**: Investigating deep learning applications to optimize parameters for industrial carbon capture technologies.
+* **AI for Carbon Capture**: Investigating deep learning applications to optimize parameters for industrial carbon capture technologies.
 
 ###  Engineering Simulation & Sustainability
 * **London Underground Waste Heat**: Applied **MCDA** to evaluate heat recovery from ventilation shafts, identifying potential savings of **500 tonnes of CO2 annually**.
