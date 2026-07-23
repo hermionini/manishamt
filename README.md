@@ -1,4 +1,5 @@
-# Hi, I'm Manisha Thakur 👋
+# Hi, I'm Manisha Thakur 
+## Dashboards https://public.tableau.com/app/profile/manisha.thakur8485/vizzes 
 
 ### **Data Scientist | MSc Data Science & AI for Sustainability Student @ Cranfield University**
 **Focusing on Geometric Deep Learning (GNNs), Industrial Process Optimization, and High-Performance Simulation Pipelines**
